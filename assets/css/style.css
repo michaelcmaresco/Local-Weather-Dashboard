@@ -1,0 +1,33 @@
+header{
+    font-size: 300%;
+    background-color: blue;
+    font-style: italic;
+    color: white;
+    text-align: center;
+}
+
+.card{
+    text-align: center;
+    width: 50%;
+    height: 30%;
+    justify-content: center;
+}
+ul {
+    list-style-type: none;
+    text-align: center;
+  }
+.container{
+    text-align: center;
+
+}
+
+#results-container{
+    text-align: center;
+    background-color: whitesmoke;
+}
+
+#five-day-forecast{
+    text-align: center;
+    justify-content: center;
+}
+
